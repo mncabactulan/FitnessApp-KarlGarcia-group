@@ -1,6 +1,7 @@
 # FitnessApp-KarlGarcia-group
 Final project in Mobile Computing
 Members:
+
 Karl David Garcia
 Joseph Carl Garcia
 Sosimo Alonxo
