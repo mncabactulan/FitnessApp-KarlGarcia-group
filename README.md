@@ -3,9 +3,13 @@ Final project in Mobile Computing
 Members:
 
 Karl David Garcia
+
 Joseph Carl Garcia
+
 Sosimo Alonxo
+
 Jhunel Baculi
+
 ariel Tulauan
 
 <img width="234" alt="Screenshot 2023-06-20 015648" src="https://github.com/mncabactulan/FitnessApp-KarlGarcia-group/assets/95170733/6bc13088-2a23-4f42-9c72-f6338c0c7191">
