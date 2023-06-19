@@ -1,5 +1,5 @@
 # FitnessApp-KarlGarcia-group
-Final project in Mobile Computing
+Final project in Mobile Computing <br/>
 Members:
 
 Karl David Garcia
